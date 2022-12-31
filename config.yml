@@ -1,0 +1,17 @@
+---
+regions:
+  - global
+
+account-blocklist:
+  - 12345678
+
+resource-types:
+  targets:
+    - IAMRole
+    - IAMPolicy
+    - IAMRolePolicy
+    - IAMRolePolicyAttachment
+    - IAMInstanceProfile
+
+accounts:
+  <Account ID>:
