@@ -3,7 +3,7 @@
 ## Set Configuration
 
 ---
-1. Install *aws-nuke* referencing **this [releases page](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.21.2)**
+1. Install *aws-nuke* to reference **this [releases page](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.21.2)**
 2. Copy `config.yml` file  into the project directory
 3. Change `<Account ID>` to your account id in `config.yml`
 4. Config credentials profile with IAM User who got admin permission
