@@ -3,7 +3,7 @@ regions:
   - global
 
 account-blocklist:
-  - 123456789018
+  - 123456789098
 
 resource-types:
   targets:
